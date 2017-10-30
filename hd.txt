@@ -1,0 +1,5 @@
+﻿1.git clone "path on git"  -> đồng bộ desktop
+2.tạo file trong thư mục
+3.git add *  --> thêm các file
+4.git commit -m "Ghi chú" --> lưu vào kho local
+5.git push --> đẩy lên git
